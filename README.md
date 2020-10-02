@@ -1,4 +1,4 @@
-# Frobshop
+# Frobshop An Amazing Project
 E-commerce wesite for learning purpose
 
 ## Requirements
